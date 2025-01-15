@@ -85,4 +85,4 @@
 
 ---
 
-> *These references are handpicked to help you dive into CTFs and build your cybersecurity skills.*  
+> *Feel free to contribute more resources, and suggestions for changes are always welcome!*  
