@@ -25,7 +25,7 @@
 
 ## 🥇 Badges  
 - **Yeshiva CTF 2025 Badge**: ![View Badge](./badges/yeshiva_ctf_badge.png)  
-- **ISACA Phishing Badge**: ![View Badge](winning-entry/Winners.jpeg)  
+- **ISACA Phishing Badge**: ![View Badge](https://github.com/saivarmadpr/Phishing-Simulator/blob/main/winning-entry/Winners.jpeg)  
 
 ---
 
