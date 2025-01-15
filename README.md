@@ -34,16 +34,10 @@ Welcome to my repository showcasing the challenges and solutions from **Yeshiva 
 ---
 
 ## ✨ Featured Challenges
-1. [SQL Injection - Breaking Login](Writeups/Challenge1.md)  
-2. [Network Forensics - Malicious Packet Analysis](Writeups/Challenge2.md)  
-3. [Cryptography - Decoding Secrets](Writeups/Challenge3.md)  
-4. [Reverse Engineering - Cracking Binaries](Writeups/Challenge4.md)  
-
----
-
-## 📸 Screenshots
-- **Flag Capture Example**:  
-![Challenge 1 Flag](Screenshots/Challenge1-Flag.png)  
+1. SQL Injection - Breaking Login 
+2. Network Forensics - Malicious Packet Analysis 
+3. Cryptography - Decoding Secrets 
+4. Reverse Engineering - Cracking Binaries  
 
 ---
 
